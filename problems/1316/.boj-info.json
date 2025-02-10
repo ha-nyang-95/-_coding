@@ -1,0 +1,10 @@
+{
+    "id": "1316",
+    "title": "그룹 단어 체커",
+    "filetype": "py",
+    "language": 28,
+    "source_path": "main.py",
+    "testcase_dir": "testcases",
+    "checksum": "36b965c692d227b0c6a7d408ab23e33e",
+    "accepted": true
+}

@@ -1,0 +1,10 @@
+{
+    "id": "2745",
+    "title": "진법 변환",
+    "filetype": "py",
+    "language": 28,
+    "source_path": "main.py",
+    "testcase_dir": "testcases",
+    "checksum": "42da9989d0c5fb3dd61652dbeb1bf3a0",
+    "accepted": true
+}

@@ -1,0 +1,10 @@
+{
+    "id": "1252",
+    "title": "이진수 덧셈",
+    "filetype": "py",
+    "language": 28,
+    "source_path": "main.py",
+    "testcase_dir": "testcases",
+    "checksum": "193c1ed434716202226be6472ba43ce8",
+    "accepted": true
+}

@@ -1,0 +1,10 @@
+{
+    "id": "10988",
+    "title": "팰린드롬인지 확인하기",
+    "filetype": "py",
+    "language": 28,
+    "source_path": "main.py",
+    "testcase_dir": "testcases",
+    "checksum": "82908e9ec70a04ae09ad834e3277e82f",
+    "accepted": true
+}

@@ -1,0 +1,10 @@
+{
+    "id": "9012",
+    "title": "괄호",
+    "filetype": "py",
+    "language": 28,
+    "source_path": "main.py",
+    "testcase_dir": "testcases",
+    "checksum": "fb41f0e31163a5c75dcfec98d0191fd3",
+    "accepted": true
+}

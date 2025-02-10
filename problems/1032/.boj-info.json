@@ -1,0 +1,10 @@
+{
+    "id": "1032",
+    "title": "명령 프롬프트",
+    "filetype": "py",
+    "language": 28,
+    "source_path": "main.py",
+    "testcase_dir": "testcases",
+    "checksum": "1361bf994850b7e497bc8ffae9e3f745",
+    "accepted": true
+}

@@ -1,0 +1,12 @@
+general:
+  selenium_browser: "chrome"
+  default_filetype: "py"
+  editor_command: "code"
+workspace:
+  ongoing_dir: "problems"
+  archive_dir: "archives"
+filetype:
+  py:
+    language: "python3"
+    main: "main.py"
+    run: "python3 $file"

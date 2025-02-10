@@ -1,0 +1,10 @@
+{
+    "id": "1100",
+    "title": "하얀 칸",
+    "filetype": "py",
+    "language": 28,
+    "source_path": "main.py",
+    "testcase_dir": "testcases",
+    "checksum": "43e15507c75deb15771ce83affcccb38",
+    "accepted": true
+}
